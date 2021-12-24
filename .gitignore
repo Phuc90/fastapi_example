@@ -1,0 +1,4 @@
+__pycache__
+window-env/
+.env
+.app/db.py
